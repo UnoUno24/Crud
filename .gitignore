@@ -1,0 +1,7 @@
+# Ignorar directorios y archivos específicos de Node.js
+node_modules/
+dist/
+build/
+
+# Archivos de configuración del entorno
+.env
